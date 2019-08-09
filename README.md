@@ -1,2 +1,2 @@
-# Mapa-Programa-o-Faculdade-
+# Mapa-Faculdade
 Conta Bancária em Java
